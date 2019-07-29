@@ -1,5 +1,5 @@
 local testTable ={}
-local ComplictTable={}
+local ComplictTabl=e{name="–’√˚",title="±ÍÃ‚                                                                                                                        "}
 function HelloWorld()
   print("HelloWorld")
 end
